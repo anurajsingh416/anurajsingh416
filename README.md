@@ -21,9 +21,10 @@ I'm a Full stack developer...
 
 
 
-
 ## 🛠 Skills
 - **Frontend**:HTML,CSS, JavaScript, ReactJs, Tailwind CSS 
 - **Backend**:NodeJs, Express Js, Php
 - **Database**:MongoDB, MySQL, Postgres Sql
+
+![](https://komarev.com/ghpvc/?username=anurajsingh416&color=yellow)
 
