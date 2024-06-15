@@ -13,7 +13,7 @@ I'm a Full stack developer...
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on... Newss app
+👩‍💻 I'm currently working on... News app
 
 🧠 I'm currently learning...React & Redux
 
