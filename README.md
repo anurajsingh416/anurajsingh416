@@ -7,7 +7,7 @@ I'm a Full stack developer...
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-dusky-three-59.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://portfolio-dusky-three-59.vercel.app/](https://anuraj-singh-portfolio.vercel.app/))
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuraj-singh416)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anuraj_Singh416)
 
@@ -22,9 +22,9 @@ I'm a Full stack developer...
 
 
 ## 🛠 Skills
-- **Frontend**:HTML,CSS, JavaScript, ReactJs, Tailwind CSS 
+- **Frontend**:HTML,CSS, JavaScript, ReactJs, Tailwind CSS, NextJs 
 - **Backend**:NodeJs, Express Js, Php
-- **Database**:MongoDB, MySQL, Postgres Sql
+- **Database**:MongoDB, MySQL, Postgres Sql, Prisma ORM
 
 ![](https://komarev.com/ghpvc/?username=anurajsingh416&color=yellow)
 
