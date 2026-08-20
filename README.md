@@ -22,7 +22,7 @@ I'm a Full stack developer...
 
 
 ## 🛠 Skills
-- **Frontend**:HTML,CSS, JavaScript, ReactJs, Tailwind CSS, NextJs 
+- **Frontend**:HTML,CSS, JavaScript, ReactJs, Tailwind CSS, NextJs, TypeScript
 - **Backend**:NodeJs, Express Js, Php
 - **Database**:MongoDB, MySQL, Postgres Sql, Prisma ORM
 
