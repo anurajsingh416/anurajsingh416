@@ -26,5 +26,23 @@ I'm a Full stack developer...
 - **Backend**:NodeJs, Express Js, Php
 - **Database**:MongoDB, MySQL, Postgres Sql, Prisma ORM
 
+<h3>🚀 Always eager to learn and create efficient, scalable solutions.</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,angular,react,java,ts,html,css,mysql,tailwind,bootstrap,py,cpp,c,github,git,vscode,aws,mongodb,npm,nodejs,php&perline=5" alt="Skills" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&count_private=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://YOUR-IMAGE-OR-GIF-URL" width="600" alt="Banner" />
+</p>
+
 ![](https://komarev.com/ghpvc/?username=anurajsingh416&color=yellow)
 
