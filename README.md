@@ -97,11 +97,13 @@ A web-based voting management system with administrative controls and database i
 
 ---
 
+
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anurajsingh416&show_icons=true&theme=github_dark)
+![Anuraj's GitHub Stats](https://github-stats-extended.vercel.app/api?username=anurajsingh416&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anurajsingh416&layout=compact&theme=github_dark)
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=anurajsingh416&layout=compact&theme=github_dark)
+
 
 *GitHub statistics reflect public repository activity and are not a complete measure of development experience.*
 
